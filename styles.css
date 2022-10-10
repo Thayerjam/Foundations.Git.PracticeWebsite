@@ -24,5 +24,15 @@ footer {
     background-color: rgb(0, 0, 0);
     width: 100vw;
     height: 5vh;
+    display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 
+footer .media-link {
+  height: 48px;
+}
+
+/* main .media-link {
+  height: 408px;
+} */
