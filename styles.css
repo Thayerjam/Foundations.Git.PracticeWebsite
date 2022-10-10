@@ -8,7 +8,7 @@ html, body {
 
 body {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 header {
@@ -22,7 +22,7 @@ header a, header nav {
 }
 
 main {
-    background-color: orange;
+    background-color: grey;
     width: 100vw;
     height: 90vh;
 }
@@ -32,16 +32,16 @@ main h3 {
 }
 
 main h3 {
-    
+    background-color: grey;
 }
 
 footer {
-    background-color: lightgreen;
+    background-color: blue;
     width: 100vw;
     height: 5vh;
     display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 
