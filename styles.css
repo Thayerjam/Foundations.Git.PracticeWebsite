@@ -52,3 +52,11 @@ footer .media-link {
 main .media-link {
   height: 408px;
 }
+
+/* Document properties */
+/* html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+} */
